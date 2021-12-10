@@ -1,1 +1,1 @@
-# Flashy
+# Flashly
