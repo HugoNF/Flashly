@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.white,
           elevation: 1,
-          title: const Text('Flashly'),
+          title: const Text('Inscription'),
         ),
       ),
     );
